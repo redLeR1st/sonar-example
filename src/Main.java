@@ -6,6 +6,7 @@ public class Main {
         System.out.println("commit");
         System.out.println("commit2");
         System.out.println("valtozik");
+        System.out.println("uuuj");
 		
     }
 
